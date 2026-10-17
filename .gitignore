@@ -9,7 +9,7 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Archivos de configuración de VS Code o IDEs
+# Archivos de configuracion
 .vscode/
 .idea/
 
@@ -17,5 +17,5 @@ __pycache__/
 .DS_Store
 *.log
 
-# (Opcional) Si descargaste datasets pesados manualmente
-datasets/*.csv
+# OMITIR DATASETS (Muy pesados para GitHub)
+datasets/
