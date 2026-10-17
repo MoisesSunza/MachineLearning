@@ -1,0 +1,21 @@
+# Entornos virtuales de Python
+venv/
+env/
+.venv/
+
+# Cache de Python y compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración de VS Code o IDEs
+.vscode/
+.idea/
+
+# Archivos temporales o de sistema
+.DS_Store
+*.log
+
+# (Opcional) Si descargaste datasets pesados manualmente
+datasets/*.csv
